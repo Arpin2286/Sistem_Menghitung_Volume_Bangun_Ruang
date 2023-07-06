@@ -1,4 +1,4 @@
-# Sistem Penghitung  Volume Bangun Ruang
+# Aplikasi Penghitung  Volume Bangun Ruang
 #### _Untuk Bangun Ruang Tabung, Kubus, Kerucut, Bola dan Balok_
 
 [![PHP Version Require](http://poser.pugx.org/pugx/badge-poser/require/php)](https://packagist.org/packages/pugx/badge-poser)
